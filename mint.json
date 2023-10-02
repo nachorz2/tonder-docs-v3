@@ -50,7 +50,7 @@
     {
       "group": "Get Started",
       "pages": [ 
-      "overview","environments", "set-up","your-first-payment"]
+      "overview","environments", "set-up"]
     },
     {
       "group"  :   "Features"  , 
